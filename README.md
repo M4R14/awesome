@@ -5,3 +5,5 @@
 
 ### Git
 - [gitignore.io](https://www.gitignore.io/)
+### icons
+- [fontawesome.io](http://fontawesome.io/icons/)
