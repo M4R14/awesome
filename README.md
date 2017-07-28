@@ -1,9 +1,12 @@
 # awesome
 
-### Terminal
+#### todo
+- [awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+
+#### Terminal
 - [zsh](http://ohmyz.sh/)
 
-### Git
+#### Git
 - [gitignore.io](https://www.gitignore.io/)
-### icons
+#### icons
 - [fontawesome.io](http://fontawesome.io/icons/)
