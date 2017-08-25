@@ -1,13 +1,14 @@
 # awesome
-  - [Bootstrap](http://getbootstrap.com/) #css
-  - [Bulma](http://bulma.io/) #css
+  - [Bootstrap](http://getbootstrap.com/) #css #design
+  - [Bulma](http://bulma.io/) #css #design
   - [Lodash](https://lodash.com/) #js
   - [simple-ssh](https://github.com/MCluck90/simple-ssh) #js
-  - [yarn](https://yarnpkg.com/lang/en/) #cli
-  - [create-react-app](https://github.com/facebookincubator/create-react-app) #cil
+  - [yarn](https://yarnpkg.com/lang/en/) #cli #node
+  - [create-react-app](https://github.com/facebookincubator/create-react-app) #cil #react #frontend
   - [markdown](https://guides.github.com/features/mastering-markdown/) 
-  - [awesome-laravel](https://github.com/chiraggude/awesome-laravel) #php #laravel
+  - [awesome-laravel](https://github.com/chiraggude/awesome-laravel) #php #laravel #backend
   - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) 
-  - [zsh](http://ohmyz.sh/) #terminal
+  - [zsh](http://ohmyz.sh/) #terminal #app
   - [gitignore.io](https://www.gitignore.io/)
-  - [fontawesome.io](http://fontawesome.io/icons/)
+  - [fontawesome.io](http://fontawesome.io/icons/) #design #css #icon
+  - [vscode](https://code.visualstudio.com/) #editor
